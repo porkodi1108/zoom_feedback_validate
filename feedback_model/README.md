@@ -11,8 +11,3 @@ This project is a feedback classification system built with a fine-tuned BERT mo
 
 -------------------------------
 
-TEAM MEMBERS:
-1.RAKESH K
-2.SANTHA KUMAR R
-3.HEMNATH M
-4.SATHISH S
